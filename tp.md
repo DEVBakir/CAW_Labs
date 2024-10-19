@@ -1,6 +1,6 @@
 # Lap2Part1 Exo2
 
-D:\study\M1\CAW\labGit
+### D:\study\M1\CAW\labGit
 λ mkdir  learnGit.
 
 D:\study\M1\CAW\labGit
